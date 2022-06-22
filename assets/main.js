@@ -6,3 +6,4 @@ button5.addEventListener('click', () => {
   disp.textContent = "added 5"
   indicator.textContent = (parseInt(indicator.textContent) + 5).toString()
 })
+
